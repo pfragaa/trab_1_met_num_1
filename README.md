@@ -1,6 +1,6 @@
 🧪 1. Análise de Erros:
 Este trabalho avalia a precisão e a convergência de séries numéricas aplicadas ao cálculo do cosseno via série de Maclaurin e à soma de uma p-série.
-#Série de Maclaurin para o cosseno:
+Série de Maclaurin para o cosseno:
 As aproximações foram feitas em Python, analisando os erros percentuais estimados e verdadeiros. Os testes revelaram que os métodos numéricos implementados são eficazes e proporcionam alta precisão, com erros tendendo rapidamente a zero à medida que as iterações aumentam.
 
 🌱 2. Cálculo de Raízes de Equações Não Lineares:
